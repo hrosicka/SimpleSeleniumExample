@@ -20,7 +20,7 @@ class ChromeLinksTest(unittest.TestCase):
         print("Initializing Chrome webdriver...")
         self.driver = webdriver.Chrome()
 
-    def test_search_pypi_link(self):
+    def test_pypi_link(self):
         """
         This test case verifies that clicking the "PyPI" link on the Python website redirects the user to the expected PyPI URL.
         """
