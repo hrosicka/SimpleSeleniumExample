@@ -1,11 +1,40 @@
 # Automated Python Website Testing with Selenium and Chrome
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-Automation-green)](https://www.selenium.dev/)
-![Stars](https://img.shields.io/github/stars/hrosicka/SimpleSeleniumExample)
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Last Commit](https://img.shields.io/github/last-commit/hrosicka/SimpleSeleniumExample)
+<div align="center">
+
+  <a href="https://github.com/hrosicka/SimpleSeleniumExample/stargazers">
+    <img src="https://img.shields.io/github/stars/hrosicka/SimpleSeleniumExample?style=for-the-badge&color=4F8EF7&logo=starship&logoColor=white" alt="Stars" />
+  </a>
+  <a href="https://github.com/hrosicka/SimpleSeleniumExample/network/members">
+    <img src="https://img.shields.io/github/forks/hrosicka/SimpleSeleniumExample?style=for-the-badge&color=4F8EF7&logo=git&logoColor=white" alt="Forks" />
+  </a>
+  <a href="https://github.com/hrosicka/SimpleSeleniumExample/commits/master">
+    <img src="https://img.shields.io/github/last-commit/hrosicka/SimpleSeleniumExample?style=for-the-badge&color=6366F1&logo=githubactions&logoColor=white" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/hrosicka/SimpleSeleniumExample/issues">
+    <img src="https://img.shields.io/github/issues/hrosicka/SimpleSeleniumExample?style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Issues" />
+  </a>
+  <br/>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x" />
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Automation" />
+  </a>
+  <a href="https://www.google.com/chrome/">
+    <img src="https://img.shields.io/badge/Browser-Chrome-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Chrome" />
+  </a>
+  <img src="https://img.shields.io/badge/Testing-unittest-334155?style=for-the-badge&logo=pytest&logoColor=white" alt="Testing: unittest" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/For-Beginners-22C55E?style=for-the-badge&logo=sparkles&logoColor=white" alt="Beginner Friendly" />
+  <img src="https://img.shields.io/badge/Made%20With-Love-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="Made with Love" />
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License: MIT" />
+  </a>
+
+</div>
 
 A concise example repository demonstrating how to automate browser interactions with [Selenium](https://www.selenium.dev/) and Chrome WebDriver in Python. The example focuses on interacting with the official [python.org](https://www.python.org/) website.
 
